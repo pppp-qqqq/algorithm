@@ -1,5 +1,7 @@
 ## 백준 알고리즘 스터디
 
+<b>:seedling: 2023-04-03</b>
+
 ### :books: 스터디 규칙
 - 일주일에 한 문제, <b>수요일</b>에 공유
 - 커리큘럼 : [solved.ac - 문제 › CLASS › 3](https://solved.ac/class/3?sort=level&direction=asc&page=1)
